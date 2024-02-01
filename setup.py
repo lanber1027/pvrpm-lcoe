@@ -13,7 +13,7 @@ setup(
     version="1.8.0",
     packages=find_packages(include=["pvrpm", "pvrpm.*"]),
     install_requires=[
-        "nrel-pysam==4.0.0",
+        "nrel-pysam==5.0.0",
         "pandas",
         "click",
         "pyyaml",
